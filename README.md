@@ -9,7 +9,7 @@ moving apart from them, eventually shooting projectiles toward them. Being made
 in pygame, the project engine needs to update the window every time (works with
 frames).
 
-**MAIN CLASSES**\
+**MAIN CLASSES**
  - __Player__  class which implements the logic for the main character with main
  methods move and hit (when collides with an enemy) --> is controlled by human;
  - __Enemy__ class which implements the logic behind monsters behaviour with
@@ -20,7 +20,7 @@ frames).
  - all three classes has draw method that uses pygame resource to display the
  movement;
 
-**GAME ENGINE and MENUS**\
+**GAME ENGINE and MENUS**
  - __Game Engine__ consists in a while loop that keeps updating the displayed
  window regarding the player and enemies actions (move, shoot, collide).
  - the interaction with human is made with the keyboard by *pygame.key.get_pressed()*.
