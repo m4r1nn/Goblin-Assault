@@ -1,4 +1,4 @@
-# League-of-OOP --- Burcea Marian Gabriel
+# Goblin Assault --- Burcea Marian Gabriel
 
 **SHORT DESCRIPTION**\
 	'Goblin Assault' is a mini-2d-game based on work with characters and physics
